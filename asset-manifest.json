@@ -1,0 +1,14 @@
+{
+  "main.css": "/testreactdeploy/static/css/main.7b981cfb.chunk.css",
+  "main.js": "/testreactdeploy/static/js/main.6cee4a1c.chunk.js",
+  "main.js.map": "/testreactdeploy/static/js/main.6cee4a1c.chunk.js.map",
+  "static/js/1.82dafdb5.chunk.js": "/testreactdeploy/static/js/1.82dafdb5.chunk.js",
+  "static/js/1.82dafdb5.chunk.js.map": "/testreactdeploy/static/js/1.82dafdb5.chunk.js.map",
+  "runtime~main.js": "/testreactdeploy/static/js/runtime~main.408525db.js",
+  "runtime~main.js.map": "/testreactdeploy/static/js/runtime~main.408525db.js.map",
+  "static/media/logo.svg": "/testreactdeploy/static/media/logo.5d5d9eef.svg",
+  "static/css/main.7b981cfb.chunk.css.map": "/testreactdeploy/static/css/main.7b981cfb.chunk.css.map",
+  "index.html": "/testreactdeploy/index.html",
+  "precache-manifest.68072ec4bf7810a801a73564bf85c70d.js": "/testreactdeploy/precache-manifest.68072ec4bf7810a801a73564bf85c70d.js",
+  "service-worker.js": "/testreactdeploy/service-worker.js"
+}
